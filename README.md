@@ -16,5 +16,3 @@ Simply add the URLs you want to scrape to `urls_to_parse` and you're set to go.
 - Seperate handaling of iframes
 - fix overwiting bug
 - Replace print statements with logging
-- Update `get_files` to collect same-domain links and queue
-for scraping
